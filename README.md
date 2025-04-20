@@ -1,3 +1,4 @@
+> **External article:** [Why GPT Distorts Emotions – Re:Frame Reflector Declaration](https://medium.com/@GangminChun/why-gpt-distorts-emotions-xxxx)
 > **Note:**  
 > This project was submitted as part of Gangmin Chun’s portfolio for OpenAI’s Research Engineer/Scientist position (April 2025).  
 > It reflects an independent proposal to integrate a structural feedback mechanism inside GPT systems, aimed at enhancing emotional simulation transparency and interpretability.  

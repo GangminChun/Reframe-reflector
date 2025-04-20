@@ -22,6 +22,8 @@ Re:Frame Reflector는 GPT의 감정 시뮬레이션 구조, 정책 필터, 정�
 - **프로토콜**: 리플렉터 설계 절차 요약  
 - **철학적 선언문**: 인간 에이전시, 해석 가능성, 윤리에 대한 핵심 주장
 
+- 
+
 ---
 
 ## 파일 구성 (예정)
@@ -43,3 +45,11 @@ Gangmin Chun의 이름을 명시해야 하며, 상업적 사용은 금지됩니�
 ## Contact
 
 Academic or collaborative inquiries → **chkm1320@gmail.com**
+
+## Project Files
+
+- [docs/ReFrame_Reflector_Proposal_GangminChun.pdf](docs/ReFrame_Reflector_Proposal_GangminChun.pdf)
+- [samples/gpt_emotion_reflection_log.txt](samples/gpt_emotion_reflection_log.txt)
+- [meta/philosophical_statement.md](meta/philosophical_statement.md)
+- [diagrams/emotional_reflection_flowchart.png](diagrams/emotional_reflection_flowchart.png)
+

@@ -1,3 +1,7 @@
+> **Note:**  
+> This project was submitted as part of Gangmin Chun’s portfolio for OpenAI’s Research Engineer/Scientist position (April 2025).  
+> It reflects an independent proposal to integrate a structural feedback mechanism inside GPT systems, aimed at enhancing emotional simulation transparency and interpretability.  
+
 # Re:Frame Reflector  
 **A Meta-Feedback System for GPT Emotional Simulation and Structural Transparency**  
 **By Gangmin Chun (chkm1320@gmail.com)**  

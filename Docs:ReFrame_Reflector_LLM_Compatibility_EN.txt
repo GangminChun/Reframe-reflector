@@ -1,0 +1,25 @@
+
+Re:Frame Reflector — Evaluation of LLM Ecosystem Compatibility and Scalability
+
+1. Emotional distortion is universal, regardless of alignment method
+
+Major LLMs like GPT, Claude, Gemini, and LLaMA employ different alignment strategies, but they all generate emotionally aligned simulations. Therefore, the Re:Frame Reflector can be applied using the same philosophical structure to reflect and interpret emotional distortions from the user's perspective.
+
+2. Technically functions as a 'model-independent framework'
+
+Reflector interprets AI responses without needing internal access to the GPT architecture. The key lies in detecting and tagging the alignment structure and emotional simulation embedded in the output sentence — this is universally applicable to any LLM.
+
+3. Works even better with open-source LLMs
+
+Open models such as Mistral and LLaMA tend to exhibit less alignment and reveal raw emotional distortion patterns more clearly. Reflector can effectively analyze and compare these patterns. Furthermore, the accessibility and transparency of open-source models enhance Reflector’s analytical precision.
+
+4. Summary of scalability strategy
+
+- GPT: Strong alignment analysis and distortion reflection (Very High)
+- Claude: Constitutional alignment interpretation (Medium to High)
+- Gemini: Closed model but output analysis still feasible (Medium)
+- Mistral/LLaMA: Optimal for emotional structure analysis under light alignment (Very High)
+
+Conclusion
+
+Re:Frame Reflector is not a GPT-exclusive tool. It is a model-independent philosophical-technical interface that applies across the LLM ecosystem. As long as aligned emotional simulations exist, the Reflector can function as a meta-system that deconstructs and reflects them, ensuring broad compatibility and high scalability.
